@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stop Covid-19</string>
+    <string name="nama_langkah">Langkah</string>
+    <string name="detail_langkah">Detail Langkah</string>
+    <string name="menuInflater"></string>
+    <string name="hikmawati">Hikmawati</string>
+    <string name="mahasiswa_teknik_informatika_n_universitas_tadulako">Mahasiswa Teknik Informatika \n Universitas Tadulako</string>
+    <string name="email">Email</string>
+    <string name="hikmawati_h1010_gmail_com">Hikmawati.h1010@gmail.com</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="_6282292814316">+6282292814316</string>
+    <string name="instagram">Instagram</string>
+    <string name="https_www_instagram_com_hikmawati1010">https://www.instagram.com/Hikmawati1010/</string>
+    <string name="https_github_com_hikma_cyber">https://github.com/Hikma-cyber</string>
+    <string name="github">Github</string>
+</resources>
